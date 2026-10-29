@@ -1,0 +1,9 @@
+com\example\recruitpro\controller\CandidateController.class
+com\example\recruitpro\entity\Candidate.class
+com\example\recruitpro\service\CandidateService.class
+com\example\recruitpro\dto\CandidateCreateDTO$CandidateCreateDTOBuilder.class
+com\example\recruitpro\service\CandidateServiceImpl.class
+com\example\recruitpro\RecruitProApplication.class
+com\example\recruitpro\repository\CandidateRepository.class
+com\example\recruitpro\dto\CandidateCreateDTO.class
+com\example\recruitpro\entity\Candidate$CandidateBuilder.class
